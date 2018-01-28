@@ -6,3 +6,4 @@
 
   $('.slider').slider();
  
+  $('.parallax').parallax();
